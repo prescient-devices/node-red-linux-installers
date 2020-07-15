@@ -8,8 +8,8 @@ Documentation=http://nodered.org/docs/hardware/raspberrypi.html
 [Service]
 Type=simple
 # Run as normal pi user - change to the user name you wish to run Node-RED as
-User=pi
-Group=pi
+#User=pi
+#Group=pi
 WorkingDirectory=/home/pi
 
 Nice=5
