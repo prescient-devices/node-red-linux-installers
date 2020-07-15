@@ -29,4 +29,4 @@ SyslogIdentifier=Node-RED
 #StandardOutput=syslog
 
 [Install]
-WantedBy=multi-user.target
+WantedBy=default.target
